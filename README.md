@@ -13,3 +13,7 @@ This was a prototype (MVP) of web automation with the Nando's UK website. This w
 📋. Paste that code in the sign-in page
 
 📸. Get to the final payment page and take a screenshot of available payment methods
+
+In action:
+
+![Nandos](https://user-images.githubusercontent.com/74986053/123271836-20f7fb80-d4f9-11eb-9f00-7b77f325ba50.gif)
