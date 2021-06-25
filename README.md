@@ -10,7 +10,7 @@ This was created using Python and Selenium to accomplish the following:
 
 🔐. Log in to a user account created previously (as the automation window does not have any local data, new login has to be done every session)
 
-📧. Grab a 2-factor code from an email inbox (Gmail), translate into text and use a filter To find the code from the message subject line
+📧. Grab a 2-factor code from an email inbox (Gmail), translate into text and use a filter to find the code from the message subject line
 
 📋. Paste that code in the sign-in page
 
