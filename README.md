@@ -2,13 +2,15 @@
 
 Web automation
 
-This was a prototype (MVP) of web automation with the Nando's UK website. This was done using Python and Selenium to accomplish the following:
+This was a prototype (MVP) of web automation using the Nando's UK website and reach the payment / checkout page.
 
-🖱. Click through the website and order a single dish
+This was created using Python and Selenium to accomplish the following:
 
-🔐. Log in to a user account
+🖱. Click through the website, finding and ordering a single dish
 
-📧. Grab a 2-factor code from an email inbox, using a regex filter on the most recent unread message subject line
+🔐. Log in to a user account created previously (as the automation window does not have any local data, new login has to be done every session)
+
+📧. Grab a 2-factor code from an email inbox (Gmail), translate into text and use a filter To find the code from the message subject line
 
 📋. Paste that code in the sign-in page
 
