@@ -6,7 +6,7 @@ This was a prototype (MVP) of web automation using the Nando's UK website and re
 
 This was created using Python and Selenium to accomplish the following:
 
-🖱. Click through the website, finding and ordering a single dish
+🖱. Click through the website automatically, finding and ordering a single dish
 
 🔐. Log in to a user account created previously (as the automation window does not have any local data, new login has to be done every session)
 
@@ -16,6 +16,6 @@ This was created using Python and Selenium to accomplish the following:
 
 📸. Get to the final payment page and take a screenshot of available payment methods
 
-In action:
+Automated script in action:
 
 ![Nandos](https://user-images.githubusercontent.com/74986053/123271836-20f7fb80-d4f9-11eb-9f00-7b77f325ba50.gif)
